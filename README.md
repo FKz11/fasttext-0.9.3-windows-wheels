@@ -1,4 +1,4 @@
-# fasttext-windows-wheels
+# fasttext-0.9.3-windows-wheels
 
 **Pre-built wheel distributions of the [fasttext](https://github.com/facebookresearch/fastText) library for Windows!**  
 ✅ Supports `numpy > 2`  
@@ -11,7 +11,7 @@
 You can install the pre-built Windows wheel directly:
 
 ```bash
-pip install https://github.com/FKz11/fasttext-windows-wheels/fasttext-0.9.3-cp310-cp310-win_amd64.whl
+pip install https://github.com/FKz11/fasttext-0.9.3-windows-wheels/fasttext-0.9.3-cp310-cp310-win_amd64.whl
 ```
 
 ---
