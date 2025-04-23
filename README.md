@@ -11,7 +11,7 @@
 You can install the pre-built Windows wheel directly:
 
 ```bash
-pip install https://github.com/yourusername/fasttext-windows-wheels/releases/download/v0.9.3/fasttext-0.9.3-cp310-cp310-win_amd64.whl
+pip install https://github.com/FKz11/fasttext-windows-wheels/fasttext-0.9.3-cp310-cp310-win_amd64.whl
 ```
 
 ---
